@@ -1,0 +1,10 @@
+__pycache__/
+venv/
+.venv/
+.env
+.github/
+github/
+.pytest_cache/
+tests/
+
+trash_unwanted_files/

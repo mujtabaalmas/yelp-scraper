@@ -1,0 +1,31 @@
+19:46:22  INFO      ======================================================================
+19:46:22  INFO      Yelp Profile Scraper (v3 - Fast)
+19:46:22  INFO      ======================================================================
+19:46:22  INFO      Reading C:\Users\Mujtaba\Desktop\scrapper\bussiness_records.csv...
+19:46:22  INFO      Loaded progress entries: 0 from progress.jsonl
+19:46:22  INFO      Total records: 7255
+19:46:22  INFO      Processing records 1 to 1
+19:46:22  INFO         Already have Yelp: 0/1
+19:46:22  INFO      
+19:46:22  INFO      Record concurrency: 4
+19:46:23  INFO      ------------------------------------------------------------
+19:46:23  INFO      [1/1] 
+19:46:23  INFO               Location: , 
+19:46:23  INFO               Website:  
+19:46:23  INFO               Domain:   
+19:46:24  INFO         [Yelp] Searching for: 
+19:46:24  INFO         [Yelp] Direct search:  in 
+19:46:36  INFO         [Yelp] DuckDuckGo search:  
+19:46:39  INFO         [Yelp] Bing search:  
+19:46:43  INFO         >> Yelp: Not found
+19:46:43  INFO      
+19:46:43  INFO      ======================================================================
+19:46:43  INFO      RESULTS SUMMARY
+19:46:43  INFO      ======================================================================
+19:46:43  INFO         Records processed:     1
+19:46:43  INFO         New Yelp found:        0
+19:46:43  INFO         Total Yelp now:        0/1
+19:46:43  INFO         Time elapsed:          20.5s
+19:46:43  INFO         Output file:           C:\Users\Mujtaba\Desktop\scrapper\bussiness_records_yelp.csv
+19:46:43  INFO         Progress file:         progress.jsonl
+19:46:43  INFO      ======================================================================
